@@ -3,14 +3,8 @@
  * @brief Abstract Data Type (ADT) for a list.
  *
  * This file describes abstract data type of list. Intuitively, List is a
- * sequence of arbitrary elements. List supports the following operations:
- * - Create an empty list
- * - Get list size
- * - Check if the list is empty
- * - Get an element at given index
- * - Set an element at given index
- * - Add an element to the end
- * - Remove an element at given index
+ * sequence of arbitrary elements. List supports creation of an empty list and
+ * access operations for its size and elements.
  *
  * @author Daniil Chernykh
  * @date May 2026
